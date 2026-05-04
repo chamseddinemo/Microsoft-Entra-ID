@@ -23,6 +23,7 @@ Utilisateurs créés :
 - 5. Créer l'utilisateur
 
 <p>
-<img src="lien-image1.png" width="300">
+  [https://github.com/chamseddinemo/Microsoft-Entra-ID/blob/main/01-Users/images/image1.png.png?raw=true]
+<img src="[lien-image1.png](https://github.com/chamseddinemo/Microsoft-Entra-ID/blob/main/01-Users/images/image1.png.png?raw=true)" width="300">
 <img src="lien-image2.png" width="300">
 </p>

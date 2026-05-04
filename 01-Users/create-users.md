@@ -22,9 +22,7 @@ Utilisateurs créés :
 - GIF: <lien_gif_creation_utilisateur_etape_5>
 - 5. Créer l'utilisateur
 
-GIF (creation utilisateur)
-
-3 etapes creation utilisateur:
-<p><img><img><p>
-<p><img><img><p>
-<p><img><img><p>
+<p>
+<img src="lien-image1.png" width="300">
+<img src="lien-image2.png" width="300">
+</p>

@@ -7,25 +7,25 @@ Actions :
 - Restore user
 
 ### Block sign-in
-- GIF: <lien_gif_block_signin>
+- GIF: `../images/users/block-signin.gif`
 - Test : accès refusé
 - Cas : départ employé
 <p><img><img><p>
 
 ### Enable user
-- GIF: <lien_gif_enable_user>
+- GIF: `../images/users/enable-user.gif`
 - Test : accès OK
 - Cas : retour employé
 <p><img><img><p>
 
 ### Delete user
-- GIF: <lien_gif_delete_user>
+- GIF: `../images/users/delete-user.gif`
 - Test : compte supprimé
 - Cas : suppression RH
 <p><img><img><p>
 
 ### Restore user
-- GIF: <lien_gif_restore_user>
+- GIF: `../images/users/restore-user.gif`
 - Test : compte restauré
 - Cas : erreur suppression
 

@@ -1,7 +1,16 @@
 ## Methodologie
 
-1. Verifier user
-2. Verifier password
-3. Verifier MFA
-4. Verifier groupe
-5. Verifier role
+Échec de connexion
+        ↓
+Mot de passe correct ?
+        ↓ non → Reset password
+        ↓ oui
+MFA fonctionne ?
+        ↓ non → Reset MFA
+        ↓ oui
+Compte actif ?
+        ↓ non → Enable account
+        ↓ oui
+Groupe correct ?
+        ↓ non → Add to group
+        ↓ oui → Escalade (Level 2)

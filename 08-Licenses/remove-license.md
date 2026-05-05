@@ -31,4 +31,4 @@ les etapes :
 4.Retirer groupes
 5.Supprimer user
 
-<gif>:lemplacelt ou le gif de ces etapes
+<gif>:PUT THE LIEN

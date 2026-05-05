@@ -30,4 +30,4 @@ In :contentReference :
 ---
 
 ### 🎬 Demonstration
-<gif>:lemplacement ou le gif de ces etapes
+<gif>: EN PREPARATION

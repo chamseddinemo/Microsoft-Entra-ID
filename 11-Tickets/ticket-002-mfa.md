@@ -44,4 +44,4 @@ Utilisateur bloqué après changement de téléphone ou perte de Microsoft Authe
 ---
 
 ### 🎬 Démonstration
-<gif>:lemplacement ou le gif de ces étapes
+<gif>: En Préparation

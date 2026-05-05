@@ -10,5 +10,4 @@ Etapes :
 Objectif :
 Securiser les comptes
 
-GIF
-<p><img><img><p>
+<gif>:PUT LIEN

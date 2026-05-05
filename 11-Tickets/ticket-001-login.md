@@ -6,7 +6,7 @@ User cannot sign in to Microsoft 365 services
 ---
 
 ### 🔍 Investigation
-In :contentReference[oaicite:0]{index=0} :
+In :contentReference :
 
 - Password status → OK  
 - MFA status → Failed / misconfigured  

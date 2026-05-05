@@ -1,15 +1,32 @@
-## Acces SharePoint
+## Accès SharePoint
 
-### Probleme
-User ne peut pas acceder a SharePoint
+### Problème
+L'utilisateur ne peut pas accéder à SharePoint
 
-### Analyse
-- Pas dans le bon groupe
+### 🔍 Analyse
+Dans Microsoft Entra ID ou Microsoft 365 Admin Center
 
-### Solution
-- Ajouter au groupe
+✔️ Vérifier :
+- User dans le bon groupe
+- Permissions SharePoint manquantes
+- Accès site non attribué
 
-### Resultat
-Acces autorise
+### 🛠️ Solution
+Dans Microsoft Entra ID :
 
-<gif>:lemplacelt ou le gif de ces etapes
+- Groups  
+- Ouvrir le groupe concerné  
+- Add member → user  
+
+Et/ou dans SharePoint :
+- Ajouter user aux permissions du site (Member / Visitor)
+
+### ⏳ Résultat
+- Accès SharePoint autorisé  
+- User peut ouvrir sites et fichiers  
+- Synchronisation OneDrive possible  
+
+### 📌 Cas réel
+Utilisateur rejoint une équipe → besoin d’accès SharePoint pour fichiers et documents
+
+<gif>:lemplacelt ou le gif de ces étapes

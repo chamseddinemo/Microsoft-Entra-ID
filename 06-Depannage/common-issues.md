@@ -1,6 +1,7 @@
 ## Problemes frequents
 
 - Mauvais mot de passe
-- MFA non configure
-- Compte desactive
-- Mauvais groupe
+- MFA non configuré ou bloqué
+- Compte désactivé
+- Mauvais groupe assigné
+- Licence manquante

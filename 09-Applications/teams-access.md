@@ -1,20 +1,44 @@
-## Acces Teams
+## Accès Teams
 
-### Probleme
-User ne voit pas Teams
+### Objectif
+Rétablir l’accès à Microsoft Teams
 
-### Analyse
-- Licence manquante
-- Mauvais groupe
+### 🔍 Analyse (toujours en premier)
+Dans Microsoft Entra ID ou Microsoft 365 Admin Center
 
-### Solution
-- Assigner licence
-- Ajouter au groupe
+✔️ Vérifier :
+- Licence Microsoft 365 assignée
+- User dans un groupe licencié
+- Teams activé dans la licence
 
-### Resultat
-Teams accessible
+### 🛠️ Correction (selon le problème)
 
-### Cas reel
-User rejoint equipe -> besoin Teams
+#### Cas A — Pas de licence
+Dans Microsoft 365 Admin Center :
+- Users → Active users  
+- Licenses and apps  
+- Ajouter licence  
+
+#### Cas B — Licence par groupe
+Dans Microsoft Entra ID :
+- Groups  
+- Ouvrir groupe licencié  
+- Add member → user  
+
+#### Cas C — Teams désactivé
+Dans la licence :
+- Activer Microsoft Teams (ON)
+
+### ⏳ Attente
+- Attendre 5 à 15 minutes  
+- Se déconnecter / reconnecter  
+
+### ✅ Résultat
+- User voit Teams  
+- Accès aux équipes  
+- Chat + réunions fonctionnent  
+
+### 📌 Cas réel
+User rejoint une équipe → besoin de Microsoft Teams
 
 <gif>:lemplacelt ou le gif de ces etapes

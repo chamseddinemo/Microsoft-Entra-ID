@@ -1,16 +1,33 @@
 ## Ticket 001 - Login Issue
 
 ### Issue
-User cannot login
+User cannot sign in to Microsoft 365 services
 
-### Investigation
-- Password checked -> OK
-- MFA -> failed
+---
 
-### Resolution
-Reset MFA
+### 🔍 Investigation
+In :contentReference[oaicite:0]{index=0} :
 
-### Result
-User can login
+- Password status → OK  
+- MFA status → Failed / misconfigured  
+- Authentication methods → missing or invalid  
 
+---
+
+### 🛠️ Resolution
+
+- Reset MFA (Require re-register MFA)  
+- Clear existing authentication methods if needed  
+- Ask user to reconfigure Microsoft Authenticator at next login  
+
+---
+
+### ⏳ Result
+- MFA reconfigured successfully  
+- User can sign in again  
+- Access to Microsoft 365 restored  
+
+---
+
+### 🎬 Demonstration
 <gif>:lemplacement ou le gif de ces etapes

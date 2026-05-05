@@ -1,17 +1,36 @@
-## Probleme Outlook
+## Problème Outlook
 
-### Probleme
+### Problème
 Outlook ne fonctionne pas
 
-### Analyse
-- Pas de licence
-- Mauvaise configuration compte
+### 🔍 Analyse
+Dans Microsoft Entra ID ou Microsoft 365 Admin Center
 
-### Solution
-- Verifier licence
-- Reconnecter compte
+✔️ Vérification :
+- Pas de licence Microsoft 365 
+- Compte mal configuré
+- Licence non assignée ou expirée
 
-### Resultat
-Emails fonctionnels
+### 🛠️ Solution
 
-<gif>:lemplacelt ou le gif de ces etapes
+#### Cas A — Pas de licence
+Dans Microsoft 365 Admin Center :
+- Users → Active users  
+- Licenses and apps  
+- Assigner une licence (Exchange inclus)
+
+#### Cas B — Reconnexion compte
+Sur le poste utilisateur :
+- Retirer le compte Outlook
+- Reconnecter le compte Microsoft 365
+- Relancer Outlook
+
+### ⏳ Résultat
+- Courriels fonctionnels  
+- Synchronisation Outlook active  
+- Accès à la boîte mail restauré  
+
+### 📌 Cas réel
+Employé ne peut pas envoyer / recevoir d’emails → problème de licence ou de configuration
+
+<gif>:lemplacelt ou le gif de ces étapes

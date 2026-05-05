@@ -28,4 +28,4 @@ L'utilisateur peut acceder a :
 ### Cas reel
 Un nouvel employe rejoint -> on lui assigne une licence
 
-<gif>:lemplacelt ou le gif de ces etapes
+<gif>:PUT THE LIEN

@@ -14,4 +14,4 @@ Securiser les comptes
 ### Cas reel
 User brute force -> compte bloque
 
-<gif>:lemplacelt ou le gif de ces etapes
+<gif>:PU LIEN

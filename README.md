@@ -5,7 +5,7 @@ Microsoft Entra ID
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Microsoft Entra ID — Enterprise Lab</title>
+Microsoft Entra ID — Enterprise Lab
 
 </head>
 <body>

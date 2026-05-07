@@ -6,30 +6,7 @@ Microsoft Entra ID
 <head>
 <meta charset="UTF-8">
 <title>Microsoft Entra ID — Enterprise Lab</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-    margin: 40px;
-    line-height: 1.6;
-    background-color: #f9f9f9;
-}
-h1, h2, h3 {
-    color: #333;
-}
-pre {
-    background: #222;
-    color: #0f0;
-    padding: 15px;
-    overflow-x: auto;
-}
-.section {
-    background: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
-}
-</style>
+
 </head>
 <body>
 

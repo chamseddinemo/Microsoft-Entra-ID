@@ -1,6 +1,4 @@
 # Microsoft-Entra-ID
-Microsoft Entra ID
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>

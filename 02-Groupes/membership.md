@@ -1,5 +1,4 @@
 ## Gestion des membres
-
 Actions :
 - Ajouter user dans groupe
 - Retirer user
@@ -18,5 +17,3 @@ ajout et suppression:
 
 - GIF: <lien_gif_validation_membre>
 - 3. Valider
-
-<p><img><img><p>

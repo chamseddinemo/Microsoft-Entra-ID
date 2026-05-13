@@ -9,4 +9,4 @@ User pas dans groupe
 ### Solution
 Ajouter au groupe
 
-<gif>:lemplacelt ou le gif de ces etapes
+<gif>:

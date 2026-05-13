@@ -12,4 +12,4 @@ User ne peut pas se connecter
 ### Resultat
 User connecte
 
-<gif>:lemplacelt ou le gif de ces etapes
+<gif>:

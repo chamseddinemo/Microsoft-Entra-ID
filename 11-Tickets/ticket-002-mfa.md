@@ -16,7 +16,7 @@ Dans Microsoft Entra ID :
 
 ---
 
-### 🛠️ Résolution
+### Résolution
 
 Dans :contentReference[oaicite:0]{index=0} :
 
@@ -31,17 +31,8 @@ OU
 
 ---
 
-### ⏳ Résultat
+### Résultat
 - MFA réinitialisé  
 - L’utilisateur doit reconfigurer son authentification  
 - Accès à Microsoft 365 restauré  
 
----
-
-### 📌 Cas réel
-Utilisateur bloqué après changement de téléphone ou perte de Microsoft Authenticator
-
----
-
-### 🎬 Démonstration
-<gif>: En Préparation

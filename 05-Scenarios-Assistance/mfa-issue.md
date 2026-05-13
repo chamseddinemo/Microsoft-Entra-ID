@@ -9,4 +9,4 @@ MFA ne fonctionne pas
 ### Resultat
 Acces OK
 
-<gif>:lemplacelt ou le gif de ces etapes
+<gif>:

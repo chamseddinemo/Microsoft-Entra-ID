@@ -6,28 +6,20 @@ User cannot sign in to Microsoft 365 services
 ---
 
 ### 🔍 Investigation
-In :contentReference :
-
 - Password status → OK  
 - MFA status → Failed / misconfigured  
 - Authentication methods → missing or invalid  
 
 ---
 
-### 🛠️ Resolution
-
+### Resolution
 - Reset MFA (Require re-register MFA)  
 - Clear existing authentication methods if needed  
 - Ask user to reconfigure Microsoft Authenticator at next login  
 
 ---
 
-### ⏳ Result
+### Result
 - MFA reconfigured successfully  
 - User can sign in again  
 - Access to Microsoft 365 restored  
-
----
-
-### 🎬 Demonstration
-<gif>: EN PREPARATION

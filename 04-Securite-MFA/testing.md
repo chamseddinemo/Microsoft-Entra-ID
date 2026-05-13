@@ -10,4 +10,4 @@ Tests realises :
 - GIF: <lien_gif_test_blocage_sans_mfa>
 - 2. Tester blocage sans MFA
 
-<gif>:PUT LIEN
+<gif>:

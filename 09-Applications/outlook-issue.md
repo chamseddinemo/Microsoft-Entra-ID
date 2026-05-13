@@ -3,7 +3,7 @@
 ### Problème
 Outlook ne fonctionne pas
 
-### 🔍 Analyse
+### Analyse
 Dans Microsoft Entra ID ou Microsoft 365 Admin Center
 
 ✔️ Vérification :
@@ -25,7 +25,7 @@ Sur le poste utilisateur :
 - Reconnecter le compte Microsoft 365
 - Relancer Outlook
 
-### ⏳ Résultat
+### Résultat
 - Courriels fonctionnels  
 - Synchronisation Outlook active  
 - Accès à la boîte mail restauré  
@@ -33,4 +33,4 @@ Sur le poste utilisateur :
 ### 📌 Cas réel
 Employé ne peut pas envoyer / recevoir d’emails → problème de licence ou de configuration
 
-<gif>:lemplacelt ou le gif de ces étapes
+<gif>:

@@ -3,7 +3,7 @@
 ### Objectif
 Rétablir l’accès à Microsoft Teams
 
-### 🔍 Analyse (toujours en premier)
+### 🔍 Analyse 
 Dans Microsoft Entra ID ou Microsoft 365 Admin Center
 
 ✔️ Vérifier :
@@ -11,7 +11,7 @@ Dans Microsoft Entra ID ou Microsoft 365 Admin Center
 - User dans un groupe licencié
 - Teams activé dans la licence
 
-### 🛠️ Correction (selon le problème)
+### Correction (selon le problème)
 
 #### Cas A — Pas de licence
 Dans Microsoft 365 Admin Center :
@@ -33,12 +33,12 @@ Dans la licence :
 - Attendre 5 à 15 minutes  
 - Se déconnecter / reconnecter  
 
-### ✅ Résultat
+### Résultat
 - User voit Teams  
 - Accès aux équipes  
 - Chat + réunions fonctionnent  
 
-### 📌 Cas réel
+### Cas réel
 User rejoint une équipe → besoin de Microsoft Teams
 
-<gif>:lemplacelt ou le gif de ces etapes
+<gif>:

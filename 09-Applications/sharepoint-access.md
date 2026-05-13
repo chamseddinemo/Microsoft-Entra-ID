@@ -11,7 +11,7 @@ Dans Microsoft Entra ID ou Microsoft 365 Admin Center
 - Permissions SharePoint manquantes
 - Accès site non attribué
 
-### 🛠️ Solution
+### Solution
 Dans Microsoft Entra ID :
 
 - Groups  
@@ -21,12 +21,12 @@ Dans Microsoft Entra ID :
 Et/ou dans SharePoint :
 - Ajouter user aux permissions du site (Member / Visitor)
 
-### ⏳ Résultat
+### Résultat
 - Accès SharePoint autorisé  
 - User peut ouvrir sites et fichiers  
 - Synchronisation OneDrive possible  
 
-### 📌 Cas réel
+### Cas réel
 Utilisateur rejoint une équipe → besoin d’accès SharePoint pour fichiers et documents
 
 <gif>:lemplacelt ou le gif de ces étapes

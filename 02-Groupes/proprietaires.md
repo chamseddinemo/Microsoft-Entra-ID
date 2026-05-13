@@ -1,5 +1,4 @@
 ## Owners
-
 - Ajouter un owner au groupe
 
 ### Role
@@ -15,5 +14,3 @@ GIF AJOUTER UN OWNER GROUP
 
 - GIF: <lien_gif_owner_groupe_etape_3>
 - 3. Ajouter owner et sauvegarder
-
-<p><img><img><p>

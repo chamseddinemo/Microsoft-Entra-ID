@@ -4,13 +4,8 @@
 Supprimer acces aux services Microsoft
 
 ### Etapes
-- GIF: <lien_gif_remove_license_etape_1>
 - 1. Users -> selectionner utilisateur
-
-- GIF: <lien_gif_remove_license_etape_2>
 - 2. Licenses
-
-- GIF: <lien_gif_remove_license_etape_3>
 - 3. Remove license
 
 ### Resultat
@@ -31,4 +26,4 @@ les etapes :
 4.Retirer groupes
 5.Supprimer user
 
-<gif>:PUT THE LIEN
+![Remove License](./Images/Employer%20quite%20Entreprise.gif)

@@ -16,4 +16,4 @@ Acces retabli
 ### Conclusion
 Sans licence = aucun acces aux services Microsoft
 
-<gif>: lien put
+<gif>: 

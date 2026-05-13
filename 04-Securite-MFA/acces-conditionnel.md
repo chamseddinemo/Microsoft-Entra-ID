@@ -1,18 +1,18 @@
 ## Conditional Access
 ## 🔐 MFA - Conditional Access
 
-### 🎯 Objectif
+### Objectif
 Forcer l’authentification multifacteur pour sécuriser Microsoft 365.
 
 ---
 
-### 📌 Portée
+### Portée
 - Utilisateurs
 - Groupes
 
 ---
 
-### ⚙️ Configuration
+### Configuration
 
 Dans :contentReference[oaicite:0]{index=0} :
 
@@ -20,17 +20,13 @@ Dans :contentReference[oaicite:0]{index=0} :
 - New policy  
 - Users / Groups → sélectionner scope  
 - Grant → Require MFA  
-
-<gif>:lien_gif_conditional_access_etape_1  
-<gif>:lien_gif_conditional_access_etape_2  
-
 ---
 
-### ✅ Résultat
+### Résultat
 - MFA obligatoire à la connexion  
 - Accès sécurisé à Microsoft 365 (Outlook, Teams, SharePoint)
 
----
+![Security MFA](./Images/SECURITY%20MFA.gif)
 
-### 💡 Conclusion
+### Conclusion
 MFA obligatoire pour protéger les comptes utilisateurs.

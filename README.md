@@ -3,15 +3,15 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-Microsoft Entra ID — Enterprise Lab
+Microsoft Entra ID
 
 </head>
 <body>
 
-<h1>🧪 Microsoft Entra ID — Enterprise Lab</h1>
+<h1>Microsoft Entra ID</h1>
 
 <div class="section">
-<h2>📁 Structure du projet</h2>
+<h2>Structure du projet</h2>
 <pre>
 EntraID-Enterprise-Lab/
 
@@ -67,14 +67,14 @@ EntraID-Enterprise-Lab/
 </div>
 
 <div class="section">
-<h2>🎯 Objectif</h2>
+<h2>Objectif</h2>
 <p>
 Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID afin de développer des compétences en gestion des identités, sécurité et support technique IT.
 </p>
 </div>
 
 <div class="section">
-<h2>🏢 Environnement</h2>
+<h2>Environnement</h2>
 <ul>
 <li>IT</li>
 <li>RH</li>
@@ -84,12 +84,12 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>🧠 Architecture</h2>
+<h2>Architecture</h2>
 <p>Users → Groups → Roles → Security (MFA)</p>
 </div>
 
 <div class="section">
-<h2>🔧 Compétences couvertes</h2>
+<h2>Compétences couvertes</h2>
 <ul>
 <li>Gestion des utilisateurs</li>
 <li>Gestion des groupes</li>
@@ -100,7 +100,7 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>🧪 Scénarios simulés</h2>
+<h2>Scénarios simulés</h2>
 <ul>
 <li>Login failure</li>
 <li>MFA blocked</li>
@@ -110,12 +110,12 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>📸 Evidence</h2>
+<h2>Evidence</h2>
 <p>Voir dossier /07-Evidence</p>
 </div>
 
 <div class="section">
-<h2>👤 Gestion des utilisateurs</h2>
+<h2>Gestion des utilisateurs</h2>
 
 <h3>Création</h3>
 <ul>
@@ -142,7 +142,7 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>👥 Gestion des groupes</h2>
+<h2>Gestion des groupes</h2>
 
 <h3>Groupes créés</h3>
 <ul>
@@ -164,7 +164,7 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>🛡️ Rôles administratifs</h2>
+<h2>Rôles administratifs</h2>
 
 <h3>Assignation</h3>
 <ul>
@@ -179,7 +179,7 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>🔐 Sécurité</h2>
+<h2>Sécurité</h2>
 
 <h3>MFA</h3>
 <ul>
@@ -201,7 +201,7 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>🧪 Scénarios</h2>
+<h2>Scénarios</h2>
 <ul>
 <li>Login issue → Reset password</li>
 <li>MFA issue → Reset MFA</li>
@@ -211,7 +211,7 @@ Ce projet simule un environnement d’entreprise en utilisant Microsoft Entra ID
 </div>
 
 <div class="section">
-<h2>🧠 Méthodologie</h2>
+<h2>Méthodologie</h2>
 <p>User → Password → MFA → Group → Role → Access</p>
 </div>
 
